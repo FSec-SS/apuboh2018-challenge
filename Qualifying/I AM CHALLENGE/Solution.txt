@@ -1,0 +1,15 @@
+I AM CHALLENGE
+1. Use Thunderbird with 'ImportExportFile' addon to import mbox file (maybe there's another way to do this?).
+2. Part 1 of flag is commented in the mail's source.
+3. Download image attachment. 
+4. In image's properties, part 2 of flag is in the comment field.
+5. Zip file is appended to the end of the image  
+6. Image is base64 encoded password for zip.
+7. Part 3 of flag is in text file.
+P.S. Base64 encoding is for ASCII BTW
+
+Password for zip: 14MP455W0RDZ;)
+Flag: MSA0TSBGTDRHCgo=@apuboh2018
+Part 1: MSA0T
+Part 2: SBGTD
+Part 3: RHCgo=@apuboh2018

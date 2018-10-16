@@ -1,0 +1,4 @@
+PPAPCAP
+1. Flag is in one of the images, base64 encoded
+
+Flag: 3ZFL4G153Z@apuboh2018

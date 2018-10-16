@@ -1,0 +1,5 @@
+Part 3 of 3: 
+RHCgo=@apuboh2018
+
+Yay! You got the flag!
+If you haven't found all of the pieces yet, might want to take a closer look at the MAIL FILE and the IMAGE FILE. ;)

@@ -1,0 +1,2 @@
+Q : Search for the flag within the file itself. Note : Flag is in uppercase.
+Hints : Data hiding in Vorbis data stream. 
