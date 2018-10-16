@@ -1,0 +1,7 @@
+[package]
+name = "guess-prime"
+version = "0.1.0"
+authors = ["Ivan Tham <pickfire@riseup.net>"]
+
+[dependencies]
+rand = "0.5"
